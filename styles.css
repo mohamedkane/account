@@ -1,0 +1,113 @@
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
+
+Body{
+ background-image: url("https://media.giphy.com/media/NEVT1WQFlHec8/giphy.gif");
+   background-repeat: no-repeat;
+     background-size: cover;
+ }
+
+p{
+  font-family: 'Kaushan Script', cursive;
+    color: blue;
+}
+
+h1{
+    font-family: 'Orbitron', sans-serif;
+    color: crimson;
+}
+
+img{
+    padding: 10px;
+}
+
+h3{
+    font-family: 'Satisfy', cursive;
+    color: red;
+    font-size: 30px;
+}
+
+h2{
+    font-family: 'Lobster', cursive;
+    color: green;
+}
+
+.geo{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    color:crimson; 
+    width: 50%;
+}
+
+#footer {
+     color:GREY;
+      background-image: url("https://css-tricks.com/wp-content/uploads/2018/05/sweep_rot.gif");
+     background-repeat: no-repeat;
+     background-size: cover;
+}
+
+a:visited {
+    text-decoration: none;
+     color:lime;
+
+ }
+
+
+
+a:active {
+    text-decoration: underline;
+    color:orange;
+}
+
+a:hover {
+    color:cyan;
+} 
+
+.sol {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
+
+.sun {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
+
+.son {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
+
+
+.ultra {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+    width: 300px;   
+    height: 50px;
+    font-size: 20px;
+    background: SteelBlue 	;
+    color:firebrick;
+    border-radius: 100px;
+    border:  double white 10px;
+    margin: 10px;
+}
+
+#header {
+    color: lime;
+ background-image: url("https://66.media.tumblr.com/718919abfb6c03a3a1620a77aeaf2eb7/tumblr_ok17qxejkk1vz685mo1_500.gif");
+  background-repeat: no-repeat;
+     background-size: cover;
+}
